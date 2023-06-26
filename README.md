@@ -1,0 +1,2 @@
+# mcMetinTasi
+Metin Taşı eklentisi.
